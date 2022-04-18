@@ -10,5 +10,5 @@ func main(){
 	var name = "jay khatri @author"
 	fmt.Println("YAY !! firt program from GO")
 	fmt.Printf("this is how you call variable : %s \n",name)
-	fmt.Printf("hi")
+	
 }
